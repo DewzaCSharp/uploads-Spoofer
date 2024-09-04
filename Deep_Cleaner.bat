@@ -1,37 +1,6 @@
 @echo off
 title Made By Dewza
 echo Cleaner Made By Dewza
-timeout 3 >nul
-echo Cleaning.
-timeout 1 >nul
-cls
-echo Cleaning..
-timeout 2 >nul
-cls
-echo Cleaning...
-timeout 1 >nul
-cls
-echo Cleaning....
-timeout 1 >nul
-cls
-echo Cleaning.....
-timeout 1 >nul
-cls
-echo Cleaning......
-timeout 1 >nul
-cls
-echo Cleaning.......
-timeout 1 >nul
-cls
-echo Cleaning..........
-timeout 1 >nul
-cls
-echo Cleaning.............
-timeout 1 >nul
-cls
-echo Cleaning................
-timeout 3 >nul
-cls
 
 taskkill /f /im FortniteClient-Win64-Shipping_EAC.exe
 taskkill /f /im FortniteClient-Win64-Shipping.exe
