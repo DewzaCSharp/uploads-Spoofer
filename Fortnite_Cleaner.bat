@@ -1,14 +1,6 @@
 @echo off
-title Made By Dewza
-echo Cleaner Made By Dewza
 
 title Fortnite Ban Trace Cleaner by Dewza
-echo Welcome %username%
-timeout 3 >nul
-echo when Traces are cleaned, this window will automatically close!
-timeout 3 >nul
-echo Press any key to start Cleaning your Fortnite Ban Traces!
-pause
 
 taskkill /f /im epicgameslauncher.exe >nul
 taskkill /f /im FortniteClient-Win64-Shipping_EAC.exe >nul
