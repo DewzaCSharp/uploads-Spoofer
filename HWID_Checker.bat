@@ -1,7 +1,7 @@
 @echo off
 mode con: cols=90 lines=45
 :AAAHHH
-title HWID Checker by 1st_Dewza
+title HWID Checker by DewzaCSharp
 color 0c
 cls 
 echo [92m------------[91m
